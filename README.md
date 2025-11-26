@@ -21,7 +21,7 @@ Meu foco agora é construir bases sólidas em programação, me organizar melhor
 📁 Projetos em Destaque
 
 💲 Sistema de Vendas – JavaScript
-🔗 (adicione o link aqui)
+🔗 - https://github.com/MAUREX-25/vendas/tree/main/vendas
 Projeto focado em manipulação de dados, lógica e interface simples.
 
 💵 Cotação do Dólar – HTML/JS
