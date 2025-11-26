@@ -1,6 +1,6 @@
 🌟 Mauro Vinicius
 
-Desenvolvedor Iniciante • ADS • Apaixonado por tecnologia e evolução contínua
+Desenvolvedor Iniciante • ADS • 
 
 Olá! Meu nome é Mauro Vinicius, sou estudante de Análise e Desenvolvimento de Sistemas (2º semestre) e estou iniciando minha jornada como desenvolvedor.
 Gosto de aprender na prática, criando projetos simples, evoluindo código e buscando sempre entender o porquê das coisas.
