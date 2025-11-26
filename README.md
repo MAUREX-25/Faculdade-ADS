@@ -25,10 +25,10 @@ Meu foco agora é construir bases sólidas em programação, me organizar melhor
 Projeto focado em manipulação de dados, lógica e interface simples.
 
 💵 Cotação do Dólar – HTML/JS
-🔗 (adicione o link aqui)
+🔗 - https://github.com/MAUREX-25/cotacao_dolar/tree/main 
 Consumo de API e exibição dinâmica da cotação em tempo real.
 
-🎓 Projetos da Faculdade (ADS)
+🍕 Controle de estoque pizzaria 
 🔗 (adicione o link aqui)
 Exercícios, atividades e pequenos projetos feitos ao longo do curso.
 
