@@ -10,11 +10,13 @@ Meu foco agora é construir bases sólidas em programação, me organizar melhor
 ⸻
 
 🚀 Tecnologias que estou estudando
-	•	Python 🐍
+
+	•	Python 
 	•	PHP
-	•	MySQL 🗄️
-	•	HTML5 / CSS3
-	•	JavaScript ⚡
+	•	MySQL 
+	•	HTML5
+ • CSS
+	•	JavaScript 
 
 ⸻
 
@@ -29,7 +31,7 @@ Projeto focado em manipulação de dados, lógica e interface simples.
 Consumo de API e exibição dinâmica da cotação em tempo real.
 
 🍕 Controle de estoque pizzaria 
-🔗 (adicione o link aqui)
+🔗 - https://github.com/MAUREX-25/Faculdade-ADS/blob/main/estoque%20pizzaria%20ads.py
 Exercícios, atividades e pequenos projetos feitos ao longo do curso.
 
 ⸻
@@ -43,5 +45,5 @@ Exercícios, atividades e pequenos projetos feitos ao longo do curso.
 ⸻
 
 📬 Contato
-	•	LinkedIn: https://www.linkedin.com/in/mauro-vinicius-987308185?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-    •.  EMAIL: mauro.vinicius1@hotmail.com
+	   •	LinkedIn: https://www.linkedin.com/in/mauro-vinicius-987308185?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+    • EMAIL: mauro.vinicius1@hotmail.com
